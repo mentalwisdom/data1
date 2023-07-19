@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "make": "byd",
+        "model": "atto3",
+        "color": "blue",
+        "price": "1100000",
+        "year": "2022",
+        "licensePlate": "ab12345",
+        "image": "atto3.jpeg"
+    },
+     {
+        "id": 2,
+        "make": "byd",
+        "model":"dolphin",
+        "color": "white",
+        "price": "800000",
+        "year": "2023",
+        "licensePlate": "ab12346",
+        "image": "dolphin.jpeg"
+    },
+    {
+        "id": 3,
+        "make": "bmw",
+        "model": "i3",
+        "color": "white",
+        "price": "3000000",
+        "year": "2022",
+        "licensePlate": "ab12347",
+        "image": "i3.jpeg"
+    },
+    {
+        "id": 4,
+        "make": "volkswagen",
+        "model":"id3",
+        "color": "white",
+        "price": "2000000",
+        "year": "2022",
+        "licensePlate": "ab12348",
+        "image": "id3.jpeg"
+    },
+    {
+        "id": 5,
+        "make": "mg",
+        "model":"mg4",
+        "color": "white",
+        "price": "900000",
+        "year": "2022",
+        "licensePlate": "ab12349",
+        "image": "mg4.jpeg"
+    }
+ 
+]
